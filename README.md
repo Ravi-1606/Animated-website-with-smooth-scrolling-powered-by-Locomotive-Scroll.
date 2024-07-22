@@ -26,12 +26,14 @@ To run this project locally, follow these steps:
   ```bash
 cd your-repository
 
-3. Open ## index.html in your preferred web browser.
+3. Open index.html in your preferred web browser.
 
-## Usage
+Usage :-
+
 Once you have the project running locally, you can explore the various sections of the website to see the smooth scrolling and animations in action.
 
-## Contributing
+Contributing:-
+
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
 
 1. Fork the repository
