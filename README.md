@@ -23,9 +23,10 @@ To run this project locally, follow these steps:
    https://github.com/Ravi-1606/Animated-website-with-smooth-scrolling-powered-by-Locomotive-Scroll.
    
 2. Navigate to the project directory:
+   
    cd your-repository
 
-3. Open **index.html** in your preferred web browser.
+4. Open **index.html** in your preferred web browser.
 
 ## Usage :-
 
