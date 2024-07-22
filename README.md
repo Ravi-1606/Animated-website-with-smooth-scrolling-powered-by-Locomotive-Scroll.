@@ -20,10 +20,10 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-
+   https://github.com/Ravi-1606/Animated-website-with-smooth-scrolling-powered-by-Locomotive-Scroll.
+   
 2. Navigate to the project directory:
-cd your-repository.git
+   cd your-repository
 
 3. Open **index.html** in your preferred web browser.
 
