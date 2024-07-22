@@ -26,6 +26,7 @@ To run this project locally, follow these steps:
    
    cd your-repository
 
+
 4. Open **index.html** in your preferred web browser.
 
 ## Usage :-
