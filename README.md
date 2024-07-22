@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
   ```bash
-cd your-repository
+cd your-repository.git
 
 3. Open index.html in your preferred web browser.
 
@@ -42,3 +42,5 @@ If you'd like to contribute to this project, please fork the repository and use 
 4. Commit your changes (git commit -am 'Add some feature')
 5. Push to the branch (git push origin feature-branch)
 6. Create a new Pull Request
+
+
